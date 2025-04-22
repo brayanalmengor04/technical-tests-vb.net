@@ -1,0 +1,11 @@
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.exe.config
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.exe
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.pdb
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.xml
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.vbproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.Resources.resources
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.vbproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.vbproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.exe
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.xml
+C:\Users\braya\OneDrive\Documentos\Practicas .NET\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.pdb
